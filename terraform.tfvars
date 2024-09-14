@@ -1,3 +1,5 @@
+access_key   = ""
+secret_key   = ""
 vpc_cidr     = ""
 subnet_cidr  = ""
 subnet1_cidr = ""
