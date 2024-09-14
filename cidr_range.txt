@@ -1,0 +1,15 @@
+
+
+Cidr_range for public Subnets
+
+10.253.1.0/24 public 1A
+10.253.3.0/24 Public 1B
+10.253.5.0/24 Public 1C
+
+
+
+Cidr_range for private Subnets
+
+10.253.2.0/24 Private 1A
+10.253.4.0/24 Private 1B
+10.253.6.0/24 Private 1C
